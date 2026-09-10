@@ -1,2 +1,2 @@
 # JavaScript
-JavaScript Lab
+JavaScript Lab For Web Application Program Development
